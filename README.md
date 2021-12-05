@@ -8,6 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+![design](https://user-images.githubusercontent.com/22778491/144737540-ead8f0e2-373b-40fe-92e6-177cd0ddf502.png)
 
 - [Design link](https://dribbble.com/shots/16938647-Food-Delivery-Onboarding-Screen)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
